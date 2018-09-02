@@ -1,0 +1,16 @@
+{
+  "name": "ng-key-enter",
+  "version": "1.0.2",
+  "description": "ng-key-enter allow us to pass a function in on an enter key to do what we want for AngularJS",
+  "main": "ng-key-enter.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stewwan/ng-key-enter.git"
+  },
+  "author": "Stewan Pacheco <talk@stpa.co> (https://github.com/stewwan/ng-key-enter)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stewwan/ng-key-enter/issues"
+  },
+  "homepage": "https://github.com/stewwan/ng-key-enter#readme"
+}
